@@ -23,6 +23,7 @@
 							<artifactId>maven-surefire-plugin</artifactId>
 							<version>3.0.0-M4</version>
 							<!-- Allows a testNG XML to be defined -->
+							<!-- Allows a testNG XML to be defined -->
 							<configuration>
 								<suiteXmlFiles>
 									<suiteXmlFile>testng2.xml</suiteXmlFile>
