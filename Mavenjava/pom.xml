@@ -9,6 +9,7 @@
 	<name>Mavenjava</name>
 	<url>http://maven.apache.org</url>
 	<!-- Small Edit -->
+	<!--  Additional Small Edit -->
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
